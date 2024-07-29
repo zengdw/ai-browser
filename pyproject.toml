@@ -9,6 +9,8 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+dashscope = "^1.20.3"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
